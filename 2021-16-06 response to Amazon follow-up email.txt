@@ -1,0 +1,53 @@
+Incident occurred Sunday, 13th June, 2021
+
+Damage received to property amounts to complete destruction of 2 lavalier-type microphones, one Rode HS2, one Rode SmarLav+, due to their having been fed 48V rather than the 3-5V the product claimed it would deliver.
+
+Replacement value of the items amounts to £224.25. This does not reflect any of the postage charges I'll have to pay, nor does it reflect the tremendous inconvenience I have suffered as a result of this incident. Nevertheless, I am prepared to settle on this low-ball figure in order to keep things simple and to get all of this over and done with quickly.
+
+I attach copies of my communication (ignored) with the seller of the item, together with the text of an e-mail I sent to Amazon today, in reply to the previous e-mail sent by you in connection with this incident, which was rejected by the system.
+
+url for a repo on which I am keeping copies of all materials pertinent to this incident:
+https://github.com/benrowlinson/48VintoHS2incident
+
+Regards,
+
+Ben Rowlinson
+
+---
+
+---
+
+This product was clearly advertised as suitable for use with a Rode HS2 microphone. The details stated that it would step down 48V of phantom power to the 3-5V suitable for that and other such plug-in power microphones. I plugged in my HS2 and turned on the phantom power. Nothing apparently happened. Thinking there may be something wrong with the connection, I plugged my Rode Smartlav + in instead. Once again, nothing apparently happened. I then plugged both microphones into the recorder with which I usually use them. They no longer worked. I then measured the microphone-connection end of your cable with a voltmeter, and it showed that it had just fed these £224.25 worth of microphones a full dose of 48V, thus destroying them. I have already talked to Amazon Customer Service about this, and they told me to initiate proceedings by making my claim for £224.25 in compensation directly to you. I include screengrabs of the invoices for the two destroyed microphones, photographs of same, together with a photograph of the voltmeter clearly showing that the voltage was not stepped down as advertised.
+
+Hope to hear from you shortly.
+
+Regards,
+
+Ben Rowlinson
+
+---
+
+Dear Elizabeth,
+
+Though it says I should wait "five working days" for a response from the seller, the amount of time we agreed I should wait per our telephone conversation and via the messaging assistant (printout in repo) was two working days, which have now gone by. There has, as anticipated, been no response from the seller.
+
+I have considered this incident in great detail, and cannot see any way in which the seller does not bear full responsibility for the destruction of my precious, much loved and expensive microphones. What is more, the tremendous inconvenience caused by this delinquent cable has been materially no less significant than the replacement value of said microphones. Nevertheless, I am prepared to settle for the amount, £224.25, stated in my communication with the supplier in order to get this over and done with quickly.
+
+I enclose my communication with the seller, together with a link to the repo on which I've uploaded all pertinent documents, including the images you told me to provide, for your convenience.
+
+Regards,
+
+Ben Rowlinson
+
+Post to seller follows:
+
+> This product was clearly advertised as suitable for use with a Rode HS2 microphone. The details stated that it would step down 48V of phantom power to the 3-5V suitable for that and other such plug-in power microphones. I plugged in my HS2 and turned on the phantom power. Nothing apparently happened. Thinking there may be something wrong with the connection, I plugged my Rode Smartlav + in instead. Once again, nothing apparently happened. I then plugged both microphones into the recorder with which I usually use them. They no longer worked. I then measured the microphone-connection end of your cable with a voltmeter, and it showed that it had just fed these £224.25 worth of microphones a full dose of 48V, thus destroying them. I have already talked to Amazon Customer Service about this, and they told me to initiate proceedings by making my claim for £224.25 in compensation directly to you. I include screengrabs of the invoices for the two destroyed microphones, photographs of same, together with a photograph of the voltmeter clearly showing that the voltage was not stepped down as advertised.
+> 
+> Hope to hear from you shortly.
+> 
+> Regards,
+> 
+> Ben Rowlinson
+
+repo: https://github.com/benrowlinson/48VintoHS2incident
+
