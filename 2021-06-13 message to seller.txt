@@ -1,0 +1,7 @@
+This product was clearly advertised as suitable for use with a Rode HS2 microphone. The details stated that it would step down 48V of phantom power to the 3-5V suitable for that and other such plug-in power microphones. I plugged in my HS2 and turned on the phantom power. Nothing apparently happened. Thinking there may be something wrong with the connection, I plugged my Rode Smartlav + in instead. Once again, nothing apparently happened. I then plugged both microphones into the recorder with which I usually use them. They no longer worked. I then measured the microphone-connection end of your cable with a voltmeter, and it showed that it had just fed these £224.25 worth of microphones a full dose of 48V, thus destroying them. I have already talked to Amazon Customer Service about this, and they told me to initiate proceedings by making my claim for £224.25 in compensation directly to you. I include screengrabs of the invoices for the two destroyed microphones, photographs of same, together with a photograph of the voltmeter clearly showing that the voltage was not stepped down as advertised.
+
+Hope to hear from you shortly.
+
+Regards,
+
+Ben Rowlinson
